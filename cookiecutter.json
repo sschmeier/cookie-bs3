@@ -16,7 +16,7 @@
   "repository_namespace": "sschmeier",
   "repository_slug": "cookie-bs3-example",
   "repository_description": "An example cookie-bs3 project template",
-  "package_name": "example_package",
+  "package_name": "example_webpage",
   "create_remote": ["yes", "no"],
   "remote_provider": ["github.com", "gitlab.com", "bitbucket.org"],
   "gitignore": "git",
